@@ -19,6 +19,13 @@ To set it up yourself,
         "    [DEFAULT]
             client_id = 'your client_id'
             client_secret = 'your client_secret'"
+    7) Run root.py for now
             
 Todo:
-    Add a settings page to control the interval between updates and possible different mode for links (opening the comments of the post instead of the direct link submitted by the user)
+
+    1) Add a settings page to control the interval between updates and possible different mode for links (opening the comments of the post instead of the direct link submitted by the user).
+    
+    2) Run the program in the background without having to display the window (when user clicks on a notification, display window right away).
+    
+    3) Display icon on system tray (research on how to as well).
+    
